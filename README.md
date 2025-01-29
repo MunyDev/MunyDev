@@ -11,10 +11,11 @@ Most of these projects compile to javascript
 
 Competitions
 - CyberPatriot (2023)
+- Icarus (An exploit that relies on request interception to unenroll devices) (2024)
 - Google Chrome VRP (Won about 23k)
 
 
 
 ========= upcoming projects =========  
 Photon  
-Icarus  
+  
