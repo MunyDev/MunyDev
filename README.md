@@ -20,5 +20,5 @@ Competitions
 Photon  
 
 Organizations
-- FWSmasher: A group of students who are interested in protecting Google Chrome's security by discovering vulnerabilities and reporting them to be fixed.
+- FWSmasher: A group of security researchers who are interested in protecting Google Chrome's security by discovering vulnerabilities and reporting them to be fixed.
   
